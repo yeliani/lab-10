@@ -1,0 +1,178 @@
+
+* {
+    padding: 0;
+    margin: 0;
+  }
+  body  {
+    font-family: "Poppins", sans-serif; peso de fuente: 100; estilo de fuente: normal;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .logo  {
+    width: 55%;
+    text-align: right;
+  }
+  .logo img {
+    justify-content: center;
+    text-align: center; 
+    height: 180px;
+    width: 150px;
+    margin-top: 0px; 
+  }
+  .Barra   {
+    display: flex;
+    width: 100%;
+    margin: 0%;
+     text-align: left;
+  }
+  nav  {
+    width: 100%;
+    height: 1%;
+    background-color: #660d11;
+    padding-top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .servicio  {
+    text-align: left;
+    width: 50%;
+    }
+    .iconos1 svg  {
+      width: 18px;
+      height: 30px;
+    }
+    .icons  {
+      width: 50%;
+      text-align: right; 
+    }
+    .Barra-busqueda input   {
+      border: none;
+      border-radius: 8px;
+      height: 25px;
+      margin-bottom: 20px;
+      background-color: rgba(255, 255, 255, 0.49);
+      padding-right: 5px;
+      color: black;
+    }
+    .Barra-busqueda select  {
+      border: none;
+      border-radius: 8px;
+      border-bottom: rgba(160, 160, 160, 0.716) 3px solid;
+      background-color: rgba(255, 255, 255, 0.49);
+      width:78px;
+      height: 25px;
+      color: rgba(0, 0, 0, 0.393);
+    }
+    #search  {
+      position: absolute;
+      width: 18px;
+      height: 18px;
+      margin-top: 2px;
+      color: rgba(0, 0, 0, 0.407);
+      padding-top: 2px;
+      margin-left: -25px;
+    }
+    .iconos1{
+      display: flex; 
+      color: #FFFFFF;
+    }
+    #icono-servicio  {
+      margin-left: 20px;
+      color: #FFFFFF;
+    }
+    #icono-carro  {
+      margin-right: 20px;
+      color: #FFFFFF;
+    }
+  .Barra-busqueda  {
+    display: flex;
+    position: relative;
+    width: 45%;
+    height: 100%;
+    margin-top: 30px;
+  }
+  .Barra-busqueda div {
+  width: 100%;
+  text-align: right;
+  margin-right: 20px; 
+  }
+
+nav svg  {
+  width: 20px;
+  height: 20px;
+}
+.compra  {
+width: 50%;
+align-items: center; 
+}
+.Descripcion  {
+width: 50%;
+}
+.Product  {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;   
+}
+.Descripcion img  {
+    width: 650px;
+    height: 600px;
+    
+}
+.Descripcion p  {
+    text-align: center;
+}
+.Cuadro-1  {
+    background-color: #430a0d;
+    width: 500px;
+    height: 650px;
+    position: absolute;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 4px 6px 26px -12px rgba(0,0,0,0.76);
+    margin-left: 100px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;     
+}
+.Cuadro-2  {
+    margin-top: 80px;
+    background-color: #FFFFFF;
+    position: relative;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;   
+}
+.car  {
+   padding-top: 70px;
+}
+#compra-boton  {
+    border: none;
+    border-radius: 8px;
+    width: 150px;
+    height: 35px;
+    background-color: #660d11;
+    margin-top: 10px;
+    box-shadow: 4px 6px 26px -12px rgba(0,0,0,0.76);
+    font-size: 15px;
+    font-family: "Poppins", sans-serif; peso de fuente: 100; estilo de fuente: normal;
+    font-weight: 900;
+    font-style: normal;
+    margin-bottom: 14px;
+    color: #FFFFFF;
+}
+#titulo-producto  {
+  color: #660d11;
+  font-family: "Poppins", sans-serif; peso de fuente: 100; estilo de fuente: normal;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+}
+#descripcion-producto  {
+  font-family: "Poppins", sans-serif; peso de fuente: 100; estilo de fuente: normal;
+  font-weight: 400;
+  font-style: normal;
+}

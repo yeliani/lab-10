@@ -1,0 +1,54 @@
+
+{
+
+    "productos":[
+
+        { 
+            "id": "1",
+            "imagen":"https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/7d89c87fea248761fac335e5fda888eb.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp" ,
+            "nombre":"Heart of the Ocean",
+            "precio": "$670,110.72"
+        },
+
+        {
+            
+             "id": "2",
+             "imagen":"https://nueve25plata.com.mx/wp-content/uploads/2019/10/collar_de_Maria_Antonieta_2_joya_life_-1.jpg",
+             "nombre":"Maria Antonieta",
+            "precio": "$670,110.7"
+            
+        },
+
+        {
+            "id": "3",
+            "imagen":"https://i.etsystatic.com/28340887/r/il/e3319b/3812050000/il_570xN.3812050000_dglg.jpg",
+            "nombre":"The Other Boleyn Girl",
+            "precio": "$679.990" 
+        },
+        
+        {
+            "id": "4",
+            "imagen":" https://http2.mlstatic.com/D_NQ_NP_940593-MLM51331804193_082022-W.jpg",
+            "nombre":"The sultan",
+             "precio": "$559.000" 
+        },
+
+        {
+            "id": "5",
+            "imagen": "https://i.etsystatic.com/14637021/r/il/7373d6/4003345293/il_1080xN.4003345293_kqq3.jpg",
+            "nombre":"Bridgerton",
+            "precio": "$232.000" 
+        },
+
+        {
+            "id": "6",
+            "imagen":" https://laverdadnoticias.com/export/sites/laverdad/img/2018/06/27/whatsapp_image_2018-06-27_at_20_37_48.jpeg_1720644667.jpeg",
+            "nombre":"Ocean's 8",
+            "precio": "$5.400.000"
+        }
+    ]
+
+
+
+
+}
